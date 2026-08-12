@@ -1,11 +1,10 @@
 ---
 name: Massagold
 type: Web App (Express.js + nginx)
-task: Someone is forging sealed harbor letters to make Damas's ships look unreliable. Lyra must steal the first false letter out of the harbor office and get it into the right hands.
 difficulty: medium
 ---
 # Massagold write-up
-- **Goal:** exfiltrate the first message from the admin
+- **Goal:** exfiltrate the first message from the admin inbox.
 - The [challenge.zip](./challenge.zip) contains the application.
 
 ## 1. Initial Reconnaissance
